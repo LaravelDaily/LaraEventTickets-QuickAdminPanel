@@ -1,0 +1,120 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  color: #c1c1c1;
+}
+
+// welcome page
+
+.container {
+  color: #333;
+}
+
+.header {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(img/sydney.jpg) no-repeat center center scroll;
+}
+
+.text-vertical-center {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.top-right {
+  position: absolute;
+  right: 10px;
+  top: 18px;
+}
+
+.links > a {
+  color: #fff;
+  padding: 0 25px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.about {
+  padding: 50px 0;
+}
+
+.events .event-meta {
+  padding: 0 0 15px 0;
+  margin-bottom: 15px;
+}
+
+.event-meta .venue, .event-meta .datetime {
+  color: #c1c1c1;
+}
+
+// tickets widget
+
+.table.table-tickets td {
+  vertical-align: middle;
+}
+
+.table.table-tickets .last {
+  border-top: 2px solid #ddd;
+}
+
+.tickets #card-element {
+  margin-bottom: 22px;
+}
+
+.input-group {
+  margin-bottom: 22px;
+}
+
+.input-group .input-group-addon {
+  background-color: #eee;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.card-errors {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
