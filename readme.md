@@ -21,3 +21,8 @@ There is Stripe integrated into the system for payments, don't forget to configu
 ## License
 
 Basically, feel free to use and re-use any way you want.
+
+### Credits
+
+This project is created by [David Lun](https://github.com/mc0de/).
+
