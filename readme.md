@@ -5,6 +5,13 @@ LaraEventTickets admin area is all generated with __QuickAdminPanel__, front-end
 
 There is Stripe integrated into the system for payments, don't forget to configure your __.env__ file by addind STRIPE_KEY and STRIPE_SECRET (see __.env.example__ file).
 
+## Clickable live-demo
+
+[demo-eventtickets.quickadminpanel.com](http://demo-eventtickets.quickadminpanel.com)
+
+- __Email__: admin@admin.com
+- __Pass__: password
+
 ![LaraEventTickets screenshot](http://webcoderpro.com/laraeventtickets-demo.png)
 
 ![LaraEventTickets screenshot2](http://webcoderpro.com/laraeventtickets-demo2.png)
