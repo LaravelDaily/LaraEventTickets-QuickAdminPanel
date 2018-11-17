@@ -12,9 +12,9 @@ There is Stripe integrated into the system for payments, don't forget to configu
 - __Email__: admin@admin.com
 - __Pass__: password
 
-![LaraEventTickets screenshot](http://webcoderpro.com/laraeventtickets-demo.png)
+![LaraEventTickets screenshot](https://quickadminpanel.com/assets/pages/demos/demo-eventtickets-01.png)
 
-![LaraEventTickets screenshot2](http://webcoderpro.com/laraeventtickets-demo2.png)
+![LaraEventTickets screenshot2](https://quickadminpanel.com/assets/pages/demos/demo-eventtickets-02.png)
 
 ## How to use
 
